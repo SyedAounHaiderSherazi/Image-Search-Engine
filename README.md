@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/811c945d-e25e-4bc3-948e-93edc0094527)
+![image](https://github.com/user-attachments/assets/b12008ff-291d-4223-9ecc-26a743534726)
+![image](https://github.com/user-attachments/assets/024243cd-684f-4501-b337-8e0ed7e63dab)
 # Image Search Engine
 
 Welcome to the **Image Search Engine** project! This project is a simple and intuitive web application that allows users to search for images by entering a keyword. The images are fetched from the Unsplash API and displayed in a visually appealing grid format. Users can load more images with a single click to explore further.
@@ -34,4 +37,4 @@ Welcome to the **Image Search Engine** project! This project is a simple and int
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/image-search-engine.git
+   git clone https://github.com/SyedAounHaiderSherazi/image-search-engine.git
